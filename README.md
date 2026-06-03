@@ -28,7 +28,7 @@
 <blockquote>
   <h3>Elitedevs — Co-Founder & Developer</h3>
   <p>Building a startup alongside a team of engineers to solve [BRIEF_PROBLEM_SOLVED, e.g., healthcare access / emergency response layer / fintech solution]. We are actively developing a suite of interconnected applications to bring this vision to life.</p>
-  <p>🏢 <b>Check out our work:</b> <a href="https://github.com/EliteDevsOrg">github.com/[STARTUP_GITHUB_ORG_HANDLE]</a></p>
+  <p>🏢 <b>Check out our work:</b> <a href="https://github.com/EliteDevsOrg">github.com/Elitedevs</a></p>
 </blockquote>
 
 <h2>👨‍💻 Academic & Open Source Projects</h2>
