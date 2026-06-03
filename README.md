@@ -23,27 +23,35 @@
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
-<h2>👨‍💻 Featured Projects</h2>
+<!-- NEW STARTUP SECTION -->
+<h2>🚀 Startups & Organizations</h2>
+<blockquote>
+  <h3>Elitedevs — Co-Founder & Developer</h3>
+  <p>Building a startup alongside a team of engineers to solve [BRIEF_PROBLEM_SOLVED, e.g., healthcare access / emergency response layer / fintech solution]. We are actively developing a suite of interconnected applications to bring this vision to life.</p>
+  <p>🏢 <b>Check out our work:</b> <a href="https://github.com/EliteDevsOrg">github.com/[STARTUP_GITHUB_ORG_HANDLE]</a></p>
+</blockquote>
+
+<h2>👨‍💻 Academic & Open Source Projects</h2>
 
 <table>
   <tr>
     <td width="33%">
-      <h3>Nile CMS</h3>
-      <p><b>Group Project</b></p>
-      <p>A comprehensive Clinic Management System designed to streamline healthcare workflows, patient scheduling, and digital record-keeping.</p>
-      <p><b>Repository:</b><br/><a href="https://github.com/ahmadmustapha764/Nile-CMS">github.com/ahmadmustapha764/Nile-CMS</a></p>
+      <h3>Nile University Clinic Management System</h3>
+      <p><b>Final Year Group Project</b></p>
+      <p>A comprehensive system designed to streamline healthcare workflows, patient scheduling, and digital record-keeping for the university clinic.</p>
+      <p><b>Repository:</b><br/><a href="https://github.com/tamara-0123/Nile-University-Clinic-Management-System-FYP">tamara-0123/Nile-University-Clinic-Management-System-FYP</a></p>
     </td>
     <td width="33%">
       <h3>Fortknight</h3>
       <p><b>Open-Source Contribution</b></p>
-      <p>Contributed to a whimsical, community-driven battle royale game, collaborating with global developers to optimize code and implement features.</p>
-      <p><b>Repository:</b><br/><a href="https://github.com/ahmadmustapha764/Fortknight">github.com/ahmadmustapha764/Fortknight</a></p>
+      <p>Contributed to a mini chess battle royale game, collaborating with the community to refine game logic and implement features.</p>
+      <p><b>Repository:</b><br/><a href="https://github.com/tomjames156/fortknight">tomjames156/fortknight</a></p>
     </td>
     <td width="33%">
-      <h3>SubTracker</h3>
-      <p><b>Group Project</b></p>
+      <h3>Subtrackr</h3>
+      <p><b>Academic Group Project</b></p>
       <p>A web application built to monitor, manage, and optimize ongoing software and service subscriptions, preventing uncalculated cost overheads.</p>
-      <p><b>Repository:</b><br/><a href="https://github.com/ahmadmustapha764/SubTracker">github.com/ahmadmustapha764/SubTracker</a></p>
+      <p><b>Repository:</b><br/><a href="https://github.com/ahmadmustapha764/Subtrackr">ahmadmustapha764/Subtrackr</a></p>
     </td>
   </tr>
 </table>
